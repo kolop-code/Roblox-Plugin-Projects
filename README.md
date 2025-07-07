@@ -1,12 +1,18 @@
 # Roblox-Plugin-Projects
-Version: v1.0
+VERSION: v1.0
 
-# In order to controll menu you have to 'require' it
-# Use require(%path%.Controller)
-You have to controll menu UI 'visibility' manually!
-'Controller' provides basic and advanced controll of menu background animation
-Atributes are in module script - Controller
-In order to change style you have to ENABLE next gen studion and UI styling
+SET UP:
+	- Move 'Design' folder to 'ReplicatedStorage'
+	- Move 'Menu' ScreenGui to 'StarterGui'
+	- Press F5 to check if everythis is working
+
+DOCUMENTATION:
+	- In order to controll menu you have to 'require' it
+	- Use require(%path%.Controller)
+	- You have to controll menu UI 'visibility' manually!
+	- 'Controller' provides basic and advanced controll of menu background animation
+	- Atributes are in module script - Controller
+	- In order to change style you have to ENABLE next gen studion and UI styling
 		- File>Beta Features>Next Gen Studio Preview
 		- File> BetaFeatures>UI styling
 	
